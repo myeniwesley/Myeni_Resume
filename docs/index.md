@@ -17,7 +17,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__LDS Business College__, Salt Lake Mbabane, UT
 
 - Full academic scholarship with 4.0 GPA
 
