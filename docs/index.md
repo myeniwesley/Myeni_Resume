@@ -16,10 +16,11 @@ title: Wesley Myeni Resume
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake Mbabane, UT
+`January 2021 - April 2025`
+__Brigham Younng Univeristy - Idaho__, Salt Lake Mbabane, UT
 
-- Full academic scholarship with 4.0 GPA
+- Minoring in Small Business Innovation and Management
+- Started a Social Enterprise that help get the in Africa out of Unemployment
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
