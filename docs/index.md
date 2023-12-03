@@ -3,13 +3,13 @@ layout: cv
 title: Wesley Myeni Resume
 ---
 # Wesley Myeni
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="mailto:myeniwesley@gmail.com ">myeniwesley@gmail.com </a>
+| <a href="www.linkedin.com/in/wesley-myeni-5a2008117">LinkedIn</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https:+1-385-381-9949">+1-385-381-9949</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
