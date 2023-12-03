@@ -9,7 +9,7 @@ title: Wesley Myeni Resume
 <a href="mailto:myeniwesley@gmail.com ">myeniwesley@gmail.com </a>
 | <a href="www.linkedin.com/in/wesley-myeni-5a2008117">LinkedIn</a>
 | <a href="https://github.com/myeniwesley/Myeni_Resume/blob/master/docs/index.md">GitHub</a>
-| <a href="https:+1-385-381-9949">+1-385-381-9949</a>
+| <a href="tel:+1-385-381-9949">+1-385-381-9949</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
