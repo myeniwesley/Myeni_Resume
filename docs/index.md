@@ -8,7 +8,7 @@ title: Wesley Myeni Resume
 <div id="webaddress">
 <a href="mailto:myeniwesley@gmail.com ">myeniwesley@gmail.com </a>
 | <a href="www.linkedin.com/in/wesley-myeni-5a2008117">LinkedIn</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+
 | <a href="https:+1-385-381-9949">+1-385-381-9949</a>
 </div>
 
