@@ -35,9 +35,10 @@ __Google Project Management: Professional Certificate__, Google Coursera, Online
 `February 2023 - Current`
 __IT Student Project Manager__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Prepare IT Bi-Monthly Project Status Report for 187 projects through proficient use of Power BI and Trello
+- Create meeting notes across 5 IT projects, providing support to full-time project managers in tracking action items and project advancement
+- Optimizing task delegation and processing for 5 IT projects led by full-time project managers, ensuring seamless coordination among team members, with largest project having a team of up to 21 individuals
+- Generate project status reports and charters for planning, analysis and implementation phases, including 4 lower-priority projects without assigned project managers, aiding progress tracking and weekly goal setting
 
 ### Data Science Lead
 
