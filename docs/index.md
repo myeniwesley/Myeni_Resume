@@ -20,7 +20,7 @@ title: Wesley Myeni Resume
 __Brigham Younng Univeristy - Idaho__, Salt Lake Mbabane, UT
 
 - Minoring in Small Business Innovation and Management
-- Started a Social Enterprise that helps to get Africa Youth out of Unemployment
+- Started a Social Enterprise that helps to get African Youth out of Unemployment
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
