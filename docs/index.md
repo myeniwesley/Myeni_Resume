@@ -17,23 +17,23 @@ title: Wesley Myeni Resume
 ## Education
 
 `January 2021 - April 2025`
-__Brigham Younng Univeristy - Idaho__, Salt Lake Mbabane, UT
+__Brigham Younng Univeristy - Idaho__, Rexburg, ID
 
+- Business Analytics Major
 - Minoring in Small Business Innovation and Management
 - Started a Social Enterprise that helps to get African Youth out of Unemployment
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`May 2023 - Current`
+__Google Project Management: Professional Certificate__, Google Coursera, Online
 
-- 4.0 Major GPA
-
+- Project Initiation, Planning, Execution
+- Agile Project Management
+- Project Budgeting 
 
 ## Related Experience
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`February 2023 - Current`
+__IT Student Project Manager__, Rexburg, ID
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
@@ -44,9 +44,10 @@ __Pacific Northwest National Lab__, Richland, WA
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Prepare IT Bi-Monthly Project Status Report for 187 projects through proficient use of Power BI and Trello
+- Create meeting notes across 5 IT projects, providing support to full-time project managers in tracking action items and project advancement
+- Optimizing task delegation and processing for 5 IT projects led by full-time project managers, ensuring seamless coordination among team members, with largest project having a team of up to 21 individuals
+- Generate project status reports and charters for planning, analysis and implementation phases, including 4 lower-priority projects without assigned project managers, aiding progress tracking and weekly goal setting
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
