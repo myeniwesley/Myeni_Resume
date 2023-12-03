@@ -2,7 +2,7 @@
 layout: cv
 title: Wesley Myeni Resume
 ---
-# Brigham Young
+# Wesley Myeni
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
