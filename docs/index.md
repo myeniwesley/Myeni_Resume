@@ -35,10 +35,10 @@ __Google Project Management: Professional Certificate__, Google Coursera, Online
 `February 2023 - Current`
 __IT Student Project Manager__, Rexburg, ID
 
-- Prepare IT Bi-Monthly Project Status Report for 187 projects through proficient use of Power BI and Trello
-- Create meeting notes across 5 IT projects, providing support to full-time project managers in tracking action items and project advancement
-- Optimizing task delegation and processing for 5 IT projects led by full-time project managers, ensuring seamless coordination among team members, with largest project having a team of up to 21 individuals
-- Generate project status reports and charters for planning, analysis and implementation phases, including 4 lower-priority projects without assigned project managers, aiding progress tracking and weekly goal setting
+- Prepare IT Bi-Monthly Project Status Report for 187 projects 
+- Providing support to full-time project managers in tracking action items 
+- Optimizing task delegation and processing for 5 IT projects  
+- Generate project status reports and charters for planning, analysis and implementation phases,
 
 ### Data Science Lead
 
