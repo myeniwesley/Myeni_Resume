@@ -41,7 +41,7 @@ __IT Student Project Manager__, Rexburg, ID
 - Generate project status reports and charters for planning, analysis and implementation phases
 
 `October 2022 - February 2023`
-__Degree Verification__, Specialist, Rexburg, ID
+__Degree Verification Specialist__, Rexburg, ID
 
 - Collaborated within a team of 6 to conduct a thorough audit of degrees and certificates for over 1500 students
 - Engaged with over 100 students in a week through calls, emails and tickets to address needs
@@ -55,7 +55,7 @@ __Founder & CEO__, Eswatini, Africa
 - Engaged with over 20 customers through different communication platforms 
 
 `November 2017 - November 2019`
-__Full-time Voluntary Mission__
+__Full-time Voluntary Mission__, West Africa
 
 - Trained over 30 mission leaders on how to supervise and help other missionaries
 - Supervised over 150 missionaries from different parts of the world
