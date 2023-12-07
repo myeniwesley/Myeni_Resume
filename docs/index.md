@@ -38,52 +38,31 @@ __IT Student Project Manager__, Rexburg, ID
 - Prepare IT Bi-Monthly Project Status Report for 187 projects 
 - Providing support to full-time project managers in tracking action items 
 - Optimizing task delegation and processing for 5 IT projects  
-- Generate project status reports and charters for planning, analysis and implementation phases,
+- Generate project status reports and charters for planning, analysis and implementation phases
 
-### Data Science Lead
+`October 2022 - February 2023`
+__Degree Verification__, Specialist, Rexburg, ID
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Collaborated within a team of 6 to conduct a thorough audit of degrees and certificates for over 1500 students
+- Engaged with over 100 students in a week through calls, emails and tickets to address needs
+- Prepared weekly reports using spreadsheets and submitted to supervisor for informed decision making
 
-- Prepare IT Bi-Monthly Project Status Report for 187 projects through proficient use of Power BI and Trello
-- Create meeting notes across 5 IT projects, providing support to full-time project managers in tracking action items and project advancement
-- Optimizing task delegation and processing for 5 IT projects led by full-time project managers, ensuring seamless coordination among team members, with largest project having a team of up to 21 individuals
-- Generate project status reports and charters for planning, analysis and implementation phases, including 4 lower-priority projects without assigned project managers, aiding progress tracking and weekly goal setting
+`February 2020 - September 2022`
+__Founder & CEO__, Eswatini, Africa
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Founded a profitable web designing company with limited resources
+- Established new relationships and connected with over 20 loyal customers
+- Engaged with over 20 customers through different communication platforms 
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`November 2017 - November 2019`
+__Full-time Voluntary Mission__
 
-### Data Science Consulting Team
+- Trained over 30 mission leaders on how to supervise and help other missionaries
+- Supervised over 150 missionaries from different parts of the world
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Other Skills
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Written & Verbal Communication, Analytical Skills, Active Listener, Customer Obsessed, Fast Learner
 
 <!-- ### Footer
 
