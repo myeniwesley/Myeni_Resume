@@ -43,7 +43,7 @@ __IT Student Project Manager__, Rexburg, ID
 `October 2022 - February 2023`
 __Degree Verification Specialist__, Rexburg, ID
 
-- Collaborated within a team of 6 to conduct a thorough audit of degrees and certificates for over 1500 students
+- Collaborated within a team of 6 to conduct a thorough audit of degrees and certificates for 1500+ students
 - Engaged with over 100 students in a week through calls, emails and tickets to address needs
 - Prepared weekly reports using spreadsheets and submitted to supervisor for informed decision making
 
