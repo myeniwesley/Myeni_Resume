@@ -62,7 +62,10 @@ __Full-time Voluntary Mission__, West Africa
 
 ## Other Skills
 
-- Written & Verbal Communication, Analytical Skills, Active Listener, Customer Obsessed, Fast Learner
+- Proficient in written and verbal communication, demonstrated through presentations
+- Utilize Power BI for trend identification and needs analysis across various projects
+- Active listener, enhancing collaboration with colleagues
+- Customer-focused with a knack for quick software adaptation
 
 <!-- ### Footer
 
